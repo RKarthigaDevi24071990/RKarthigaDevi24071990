@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @RKarthigaDevi24071990
-- 👀 I’m interested in web Developing
-- 🌱 I’m currently learning MERN STACK
-- 📫 How to reach me rkarthigadevi07@gmail.com
+<h1 align="center">Hi 👋, I'm R Karthiga devi</h1>
+<h3 align="center">A passionate fullstack developer from TamilNadu.</h3>
 
-<!---
-RKarthigaDevi24071990/RKarthigaDevi24071990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **MERN stack**
+
+- 💬 Ask me about **React JS,Node JS**
+
+- 📫 How to reach me **rkarthigadevi07@gmail.com**
+
+- ⚡ Fun fact **Coding Bugs were NOT named after an Actual bug.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
